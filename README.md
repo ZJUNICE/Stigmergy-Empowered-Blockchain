@@ -1,6 +1,12 @@
+# Disclaimer
+
+This is a research project and by definition is unstable. Please write to us if you find something not correct or strange. We are sharing the codes under the condition that reproducing full or part of codes must cite the paper below.
+
+Y. Liu, D. Li, R. Li, Z. Zhao, Y. Zhu, and H. Zhang, “Secure and efficient stigmergy-empowered blockchain framework for heterogeneous collaborative services in the Internet of vehicles,” *IEEE Commun. Mag.*, 2023. <https://ieeexplore.ieee.org/document/10024895/>
+
 # SEB Framework
 
-This is the simulation source code for paper "Secure and Efficient Stigmergy-Empowered Blockchain Framework for Heterogeneous Collaborative Services in the Internet of Vehicles". In this simulation, we implement four experiments, termed as Experiments A, B, C, and D (i.e., transaction sorting performance for smart contracts, system security from the perspective of chain length, computational efficiency of the transaction selection algorithm, and throughput in terms of transactions).
+In this simulation, we implement four experiments, termed as Experiments A, B, C, and D (i.e., transaction sorting performance for smart contracts, system security from the perspective of chain length, computational efficiency of the transaction selection algorithm, and throughput in terms of transactions).
 
 ## Getting Started
 
@@ -101,7 +107,7 @@ Gaussian_IOTA_CTPS = [7, 17, 27, 37, 47, 55, 65, 75, 85, 88, 88, 88, 89, 89, 89,
 
 ## Authors
 
-* YUNTAO LIU, DAOXUN LI, *RONGPENG LI, ZHIFENG ZHAO, YONGDONG ZHU, HONGGANG ZHANG
+* YUNTAO LIU, DAOXUN LI, RONGPENG LI, ZHIFENG ZHAO, YONGDONG ZHU, HONGGANG ZHANG
 
 ## License
 

@@ -4,7 +4,7 @@ This is a research project and by definition is unstable. Please write to us if 
 
 Y. Liu, D. Li, R. Li, Z. Zhao, Y. Zhu, and H. Zhang, “Secure and efficient stigmergy-empowered blockchain framework for heterogeneous collaborative services in the Internet of vehicles,” *IEEE Commun. Mag.*, 2023. <https://ieeexplore.ieee.org/document/10024895/>
 
-# SEB Framework
+# Stigmergy-Empowered Blockchain (SEB) Framework
 
 In this simulation, we implement four experiments, termed as Experiments A, B, C, and D (i.e., transaction sorting performance for smart contracts, system security from the perspective of chain length, computational efficiency of the transaction selection algorithm, and throughput in terms of transactions).
 
